@@ -1,3 +1,4 @@
+[![MSBuild](https://github.com/breylaude/radix/actions/workflows/msbuild.yml/badge.svg)](https://github.com/breylaude/radix/actions/workflows/msbuild.yml)
 # Radix
 ## Table of Contents
 
