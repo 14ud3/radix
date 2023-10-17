@@ -1,4 +1,5 @@
 [![MSBuild](https://github.com/breylaude/radix/actions/workflows/msbuild.yml/badge.svg)](https://github.com/breylaude/radix/actions/workflows/msbuild.yml)
+[![SLSA generic generator](https://github.com/breylaude/radix/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg)](https://github.com/breylaude/radix/actions/workflows/generator-generic-ossf-slsa3-publish.yml)
 # Radix
 ## Table of Contents
 
